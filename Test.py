@@ -1,4 +1,4 @@
-'''I need a pro to help me to complete this and teach me Tkinter like am a 5 year old pliz help'''
+
 import tkinter as tk
 GUI=tk.Tk()
 GUI.title("Calc")
