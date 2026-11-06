@@ -1,3 +1,2 @@
 # HEROSCIENCE209
-A Python play area
-Also learning
+A Python Tkinter test script
